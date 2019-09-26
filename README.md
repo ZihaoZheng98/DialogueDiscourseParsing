@@ -4,7 +4,7 @@ Code for the AAAI-19 paper "A Deep Sequential Model for Discourse Parsing on Mul
 
 ## Paper
 
-Our paper is now available on [arXiv](https://arxiv.org/abs/1812.00176), and please kindly cite it:
+this paper is now available on [arXiv](https://arxiv.org/abs/1812.00176), and please kindly cite it:
 
 ```
 @inproceedings{shi2019deep,
@@ -17,8 +17,7 @@ Our paper is now available on [arXiv](https://arxiv.org/abs/1812.00176), and ple
 
 ## Requirements
 
-* Python 2.7
-* Tensorflow 1.3
+* Python 3
 
 ## Dataset
 
